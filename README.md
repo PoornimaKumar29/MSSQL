@@ -1,4 +1,4 @@
-# 📌 SQL Concepts, Errors, and Fixes - Summary
+
 
 ## **1️⃣ SQL Constraints**
 ### **🔹 Primary Key (PK)**
